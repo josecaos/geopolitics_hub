@@ -1,0 +1,62 @@
+[debug] [2025-01-08T08:33:07.725Z] ----------------------------------------------------------------------
+[debug] [2025-01-08T08:33:07.728Z] Command:       /usr/local/bin/firebase /home/caos/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase login
+[debug] [2025-01-08T08:33:07.728Z] CLI Version:   13.29.0
+[debug] [2025-01-08T08:33:07.729Z] Platform:      linux
+[debug] [2025-01-08T08:33:07.729Z] Node Version:  v18.5.0
+[debug] [2025-01-08T08:33:07.729Z] Time:          Wed Jan 08 2025 02:33:07 GMT-0600 (Central Standard Time)
+[debug] [2025-01-08T08:33:07.730Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-01-08T08:33:07.734Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=1059984858&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2025-01-08T08:33:32.391Z] >>> [apiv2][query] POST https://accounts.google.com/o/oauth2/token [none]
+[debug] [2025-01-08T08:33:32.392Z] >>> [apiv2][body] POST https://accounts.google.com/o/oauth2/token [omitted]
+[debug] [2025-01-08T08:34:12.694Z] ----------------------------------------------------------------------
+[debug] [2025-01-08T08:34:12.697Z] Command:       /usr/local/bin/firebase /home/caos/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase login --no-localhost
+[debug] [2025-01-08T08:34:12.697Z] CLI Version:   13.29.0
+[debug] [2025-01-08T08:34:12.698Z] Platform:      linux
+[debug] [2025-01-08T08:34:12.698Z] Node Version:  v18.5.0
+[debug] [2025-01-08T08:34:12.698Z] Time:          Wed Jan 08 2025 02:34:12 GMT-0600 (Central Standard Time)
+[debug] [2025-01-08T08:34:12.699Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-01-08T08:34:12.703Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[debug] [2025-01-08T08:34:17.224Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2025-01-08T08:34:17.226Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"d98bf8b4-eec3-4a69-ba7e-20cb68cf4460"}
+[debug] [2025-01-08T08:34:58.913Z] ----------------------------------------------------------------------
+[debug] [2025-01-08T08:34:58.916Z] Command:       /usr/local/bin/firebase /home/caos/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase login --no-localhost
+[debug] [2025-01-08T08:34:58.916Z] CLI Version:   13.29.0
+[debug] [2025-01-08T08:34:58.917Z] Platform:      linux
+[debug] [2025-01-08T08:34:58.917Z] Node Version:  v18.5.0
+[debug] [2025-01-08T08:34:58.917Z] Time:          Wed Jan 08 2025 02:34:58 GMT-0600 (Central Standard Time)
+[debug] [2025-01-08T08:34:58.918Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-01-08T08:34:58.923Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again. 
+[debug] [2025-01-08T08:35:01.049Z] >>> [apiv2][query] POST https://auth.firebase.tools/attest [none]
+[debug] [2025-01-08T08:35:01.050Z] >>> [apiv2][body] POST https://auth.firebase.tools/attest {"session_id":"dc20993b-5d03-48a4-aad0-1f59f677ef97"}
+[debug] [2025-01-08T08:35:22.408Z] ----------------------------------------------------------------------
+[debug] [2025-01-08T08:35:22.410Z] Command:       /usr/local/bin/firebase /home/caos/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/bin/firebase projects:list
+[debug] [2025-01-08T08:35:22.411Z] CLI Version:   13.29.0
+[debug] [2025-01-08T08:35:22.411Z] Platform:      linux
+[debug] [2025-01-08T08:35:22.411Z] Node Version:  v18.5.0
+[debug] [2025-01-08T08:35:22.412Z] Time:          Wed Jan 08 2025 02:35:22 GMT-0600 (Central Standard Time)
+[debug] [2025-01-08T08:35:22.412Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-01-08T08:35:22.416Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2025-01-08T08:35:22.464Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-01-08T08:35:30.514Z] Error: Timed out.
+    at Timeout._onTimeout (/home/caos/.cache/firebase/tools/lib/node_modules/firebase-tools/lib/utils.js:269:49)
+    at listOnTimeout (node:internal/timers:564:17)
+    at process.processTimers (node:internal/timers:507:7)
+[error] 
+[error] Error: An unexpected error has occurred.

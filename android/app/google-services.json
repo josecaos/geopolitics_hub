@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "747012898204",
+    "project_id": "geopolitics-hub",
+    "storage_bucket": "geopolitics-hub.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747012898204:android:2baac73fe464e01dba9c59",
+        "android_client_info": {
+          "package_name": "com.example.geopolitics_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHeLXSbLib05nge_Wz-f86srVp2HJh9eU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

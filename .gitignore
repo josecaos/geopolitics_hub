@@ -1,0 +1,25 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+
+# Android related
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+*.apk
+*.aar
+*.jks
+
+# iOS related
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.xcworkspace
+*.xcuserstate
+.DS_Store
+DerivedData/
+build/

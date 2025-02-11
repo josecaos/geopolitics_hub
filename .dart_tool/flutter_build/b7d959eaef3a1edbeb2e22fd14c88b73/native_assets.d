@@ -1,0 +1,1 @@
+ /home/caos/Documents/flutter/geopolitics_hub/.dart_tool/flutter_build/b7d959eaef3a1edbeb2e22fd14c88b73/native_assets.yaml: 

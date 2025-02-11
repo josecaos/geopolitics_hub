@@ -1,7 +1,13 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
+import 'screens/login_screen.dart';
+import 'screens/news_feed_screen.dart';
 
 void main() {
   runApp(const MyApp());
+    WidgetsFlutterBinding.ensureInitialized();
+    await Firebase.initializeApp();
+    runApp(GeopoliticsHubApp());
 }
 
 class MyApp extends StatelessWidget {

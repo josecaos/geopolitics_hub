@@ -23,3 +23,5 @@ build/
 .DS_Store
 DerivedData/
 build/
+
+android/app/google-services.json

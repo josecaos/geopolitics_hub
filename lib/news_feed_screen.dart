@@ -8,7 +8,7 @@ class NewsFeedScreen extends StatelessWidget {
         title: Text('Geopolitics News Feed'),
       ),
       body: Center(
-        child: Text('News Feed Content Here'),
+        child: Text('News Feed Content Here'),// app content here
       ),
     );
   }
